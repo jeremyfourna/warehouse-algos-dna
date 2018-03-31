@@ -1,2 +1,3 @@
 # warehouse-algos-dna
-Use DNA to find shortest path
+
+DNA algo for warehouse-path

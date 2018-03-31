@@ -1,0 +1,27 @@
+{
+  "name": "warehouse-algos-dna",
+  "version": "0.1.0",
+  "description": "DNA algo for warehouse-path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyfourna/warehouse-algos-dna.git"
+  },
+  "author": "Jeremy Fourna <jeremyfourna@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyfourna/warehouse-algos-dna/issues"
+  },
+  "homepage": "https://github.com/jeremyfourna/warehouse-algos-dna#readme",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "to-dna": "^0.2.0",
+    "warehouse-picker-tour": "^0.1.0"
+  },
+  "devDependencies": {
+    "warehouse-path": "^1.0.0"
+  }
+}
